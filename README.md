@@ -1,5 +1,9 @@
 # DSA
 
+#CONTENT FOR FANG
+
+http://bit.ly/Content_for_FAANG 
+
 Materials to Learn DSA
 
 1. *Programming Essentials* - https://drive.google.com/file/d/1EuYeu29E0aIMcagdQ5ndSSv7frdzNTre
@@ -39,3 +43,9 @@ Materials to Learn DSA
 18. *Greedy Paradigm* - https://drive.google.com/file/d/1QAe7LldDkSDK_23-LIc9iutxGtUSRaZz
 
 19. *Dynamic Programming* - https://drive.google.com/file/d/1nmZtaCgntAI9zG6tgUKY2QDdKDcsbzhT
+
+-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
+DSA-PRACTICE QUESTIONS
+
+https://docs.google.com/document/d/1mrmWXn8osPL_oTtUmyRmWg5HKAttNQXQYj8ds7Wj0HQ/edit?usp=sharing
