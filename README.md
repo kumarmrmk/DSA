@@ -1,6 +1,6 @@
 # DSA
 
-#CONTENT FOR FANG
+#CONTENT FOR FAANG
 
 http://bit.ly/Content_for_FAANG 
 
